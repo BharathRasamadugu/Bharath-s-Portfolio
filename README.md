@@ -12,7 +12,7 @@
 
 
   # [Project 2: Descriptive Analytics - Customer Churn in Telecommunication](https://github.com/BharathRasamadugu/Descriptive-Analytics-Customer-Churn-in-Telecommunication-)
-- **Implementation**: The analysis and visualizations were done in Google Colab.
+- **Implementation**: The analysis and visualization of this data set is done in Google Colab.
 - **Dataset**: Customer Churn in Telecom dataset with customer demographics, service usage, contract types, payment methods, and churn status.
 - **Primary Goal**: Explore customer churn patterns and identify factors affecting retention and churn.
 - **Descriptive Analytics**: Perform data cleaning, handle missing values, and encode categorical variables.
