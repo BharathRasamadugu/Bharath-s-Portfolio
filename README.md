@@ -4,10 +4,7 @@
 - **Sales Breakdown**: Displays sales by product and year, budget, and variances.
 - **Data Sources**: Three Excel files and a .pbix file used; source file location needs modification through the data source settings.
 - **Sales Forecast**: Graph forecasts sales for one year based on past patterns, aiding inventory planning.
-- **DAX Functions**:
-    - Used Calendar() Auto function to create a Date table.
-    - Derived columns for Month, Month_No, Quarter, and Year.
-    - Created measures like Budget Sales, Budget Variation%, CY Sales, PY Sales, YOY Growth%.
+- **DAX Functions**: Used Calendar() Auto to create a Date table, derived Month, Quarter, and Year columns, and created measures for Budget Sales, Budget Variation%, CY Sales, PY Sales, and YOY Growth%.
 - **Visualizations**: Includes Card, Donut Chart, Scatter Chart, Scattered Area Chart, Line Chart, Matrix.
 - **Tooltips**: Two tooltip pages provide deeper insights into sales and budget variations.
 
